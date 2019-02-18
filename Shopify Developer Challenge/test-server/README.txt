@@ -1,5 +1,6 @@
 This server side web api was implemented in GraphQL and Node.js and uses graphql-yoga to host a local basic GraphQL server. All the requirements to run the GraphQL server and interact with the api have already been installed. Simply in command prompt enter the test-server directory and enter the command: 
 
+
 $ npm start
 
 Incase you cannot run the server follow the steps. To install graphql-yoga, run the following in terminal command in the directory ./test-server
